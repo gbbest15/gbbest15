@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayannuga Gbenga
+
 - 👀 I’m interested in Web, Mobile Apps and Desktops Apps
 - 🌱 I’m currently learning Flutter & Dart
 - 💞️ I’m looking to collaborate on Mobile Apps
